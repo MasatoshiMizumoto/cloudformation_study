@@ -11,7 +11,7 @@ cloudformation_study
 ## 構成
 
 - 東京リージョンで単一VPCを作成して実施
-- 詳細はlayout.pngをご覧ください。
+- 詳細はlayout/layout.pngをご覧ください。
 
 ## 作成環境
 
@@ -25,8 +25,8 @@ cloudformation_study
 
 ## 参考サイト
 
-[AWS CloudFormation ユーザーズガイド テンプレートリファレンス](https://docs.aws.amazon.com/ja_jp/AWSCloudFormation/latest/UserGuide/template-reference.html)
-[【Tips】CloudFormationでDependOnが必要なケース](https://dev.classmethod.jp/cloud/aws/cfn-dependon/)
+- [AWS CloudFormation ユーザーズガイド テンプレートリファレンス](https://docs.aws.amazon.com/ja_jp/AWSCloudFormation/latest/UserGuide/template-reference.html)
+- [【Tips】CloudFormationでDependOnが必要なケース](https://dev.classmethod.jp/cloud/aws/cfn-dependon/)
 
 ## 作成者
 
