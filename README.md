@@ -20,7 +20,10 @@ cloudformation_study
 
 ## 導入
 
-- AWSのCloudFormationから読込が可能です。
+```
+$ git clone https://github.com/miima17/cloudformation_study.git
+```
+- WEBGUIのCloudFormation、またはAWS CLIから読込が可能です。
 - EC2からS3に対してはs3fsにてRollを使用した方法でマウントしてください。
 
 ## 参考サイト
