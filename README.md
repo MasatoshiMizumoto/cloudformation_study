@@ -33,4 +33,4 @@ $ git clone https://github.com/miima17/cloudformation_study.git
 
 ## 作成者
 
-[@miima_17](https://twitter.com/miima_17)
+[MasatoshiMizumoto](https://github.com/MasatoshiMizumoto)
